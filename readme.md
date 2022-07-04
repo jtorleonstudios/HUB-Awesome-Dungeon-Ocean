@@ -1,1 +1,1 @@
-# HUB - Awesome Dungeon edition Ocean
+# HUB - Awesome Dungeon Ocean edition
